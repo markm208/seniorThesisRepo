@@ -1,0 +1,17 @@
+<div class="Products">
+    {{#each products}}
+    <div class="individualProduct">
+        <div class="Image">
+            <img src= "/docs/images/{{this/Image}}" width="200"/>
+        </div>
+        </br>
+        <div class="Name">
+            {{this/Name}}
+        </div>
+        </br>
+        <div class="Price">
+            ${{this/Price}}
+        </div>
+    </div> <!-- individual Product -->
+    {{/each}}
+</div> <!-- Products -->

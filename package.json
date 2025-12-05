@@ -1,0 +1,31 @@
+{
+  "name": "megansseniorthesisrepo",
+  "version": "1.0.0",
+  "description": "My Senior Thesis Project.",
+  "main": "Index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeganDoesCode/MegansSeniorThesisRepo.git"
+  },
+  "keywords": [],
+  "author": "Megan Jensen",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MeganDoesCode/MegansSeniorThesisRepo/issues"
+  },
+  "homepage": "https://github.com/MeganDoesCode/MegansSeniorThesisRepo#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.4",
+    "morgan": "^1.10.1",
+    "sqlite3": "^5.1.7"
+  }
+}

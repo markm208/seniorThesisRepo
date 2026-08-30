@@ -1,14 +1,14 @@
 # Senior Thesis Repo: [PLACE YOUR PROJECT NAME HERE]
 This repository is provided to help you build your senior thesis project. You will edit it to store your specification documents, code, and weekly checkins.
 
-First, fork this repo (this makes a copy of it associated with your account) and then clone it to your machine (this makes a copy of your fork on your personal machine). You can then use an editor and a GitHub client to manage the repository.
+First, make a copy of this template repository associated with your account and then clone it to your machine (this makes a copy of your fork on your personal machine). You can then use an editor and a GitHub client to manage the repository.
 
-### Markdown
+## Markdown
 This file is called README.md. It is a [Markdown file](https://en.wikipedia.org/wiki/Markdown). Markdown is a simple way to format documents. When a Markdown-ready viewer displays the contents of a file, it formats it to look like HTML. However, Markdown is significantly easier to write than HTML. VSCode supports displaying Markdown in a preview window. GitHub uses Markdown extensively including in every repo's description file, ```README.md```.
 
 All Markdown files end with the extension ```.md```. There is a Markdown tutorial [here](https://www.markdowntutorial.com/) and a Markdown cheatsheet [here](https://www.markdownguide.org/cheat-sheet/).
 
-#### Images
+### Images
 If you would like to add images to a Markdown file, place them in the ```docs/images/``` directory in this repo and reference them using markdown like this:
 
 ```
@@ -31,7 +31,7 @@ I have added a ```main.cpp``` file to get you started. Feel free to remove it.
 
 If you have any questions feel free to ask me! I'll answer professor questions, customer questions, and give advice if asked.
 
-# Sample Spec
+## Sample Spec
 
 Below is an example of a project specification.  
 
